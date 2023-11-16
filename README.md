@@ -20,4 +20,4 @@ index.js
 
 
 
-![Screenshot_34](D:\BootCamp\Helping\space-shooter-ajuda\assets\imgs\Screenshot_34.png)
+![Screenshot_34](.\assets\imgs\Screenshot_34.png)
