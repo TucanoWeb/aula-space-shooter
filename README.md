@@ -15,7 +15,7 @@ Project made for one of my students, using Javascript.
 Click in file below:
 
 ```bash
-index.js
+index.html
 ```
 
 
