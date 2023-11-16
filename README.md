@@ -20,4 +20,4 @@ index.js
 
 
 
-![Screenshot_34](.\assets\imgs\Screenshot_34.png)
+![Screenshot_34](https://github.com/TucanoWeb/aula-space-shooter/blob/master/assets/imgs/Screenshot_34.png)
